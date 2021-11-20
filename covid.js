@@ -37,9 +37,9 @@ templete.innerHTML =`
 <p>Confirmed</P>
 
 <div>${Confirmed}</div>
-</div>
-
-</div>
+<span>
+hi
+</span>
 
 
 
