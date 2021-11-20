@@ -1,0 +1,128 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:beige;
+}
+
+/* .userName{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 25px;
+} */
+
+.searchfield{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    
+
+} 
+
+#search{
+    margin-top: 40px;
+    height: 50px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+#btn{
+    height: 40px;
+  width: 70px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+  #btn{
+      background-color: red;
+      color: white;
+  }
+
+#flag span{
+ 
+/* margin-top: 10px; */
+background-color: white;
+font-size: 20px;
+border-radius: 15px;
+padding-left: 10px;
+/* padding-top: 13px; */
+padding-right: 15px;
+padding: 10px;
+margin: 10px;
+
+
+
+
+
+}
+#flag{
+    margin-left: 40px;
+}
+
+#country{
+
+    float: left;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 65px;
+
+}
+#go{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 30px; */
+    margin-left: 50px;
+    margin-top: 50px;
+  
+}
+
+#so{
+    margin-left: 80px;
+    background-color: rgba(215, 215, 226, 0.658);
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 30px;
+    border:2px solid blue;
+    
+}
+
+#so1{
+
+    background-color: rgba(215, 215, 226, 0.658);
+   
+    width: 150px;
+    
+    font-size: 20px;
+    border-radius: 30px;
+    border:2px solid blue;
+    
+}
+
+#po{
+    background-color: rgba(255, 65, 108, 0.2);
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+    width: 150px;
+    border:2px solid  red;
+    margin-left: 500px;
+}
